@@ -5,7 +5,7 @@
 * **The internet** is simply a wire.
 * **The internet** useful because two computers connected directly to this wire can communicate.
 
-![internet_model](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/internet_model.jpeg?raw=true)
+![internet_model](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/internet_model.jpeg)
 
 ## What is the Server?
 
