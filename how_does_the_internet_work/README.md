@@ -9,6 +9,27 @@
    <img alt="internet model" src="https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/internet_model.jpeg" />
 </p>
 
+### What is the Intranets and Extranets
+
+* **Intranet** are *private* networks that are restricted to members of a particular organization.
+
+```diff
++Ex:
+Host web pages for sharing department or team information, shared drives for managing key documents and files, etc. 
+```
+
+* **Extranets** is network open all or part of a private network to allow sharing and collaboration with other organizations.
+* They are typically used to safely and securely share information with clients and stakeholders who work closely with a business.
+
+```diff
++Ex
+Information and file sharing, collaboration tools, discussion boards, etc.
+```
+
+<p align="center">
+   <img alt="internet model" src="https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/internet_schema.png" />
+</p>
+
 ## What is the Server?
 
 * **A Server** is a special computer connected directly to the **Internet**.
@@ -43,6 +64,10 @@
 
 * An **Internet Service Provider (ISP)** is an organization that provides many different services for accessing, using, or participating in the **Internet**
 
+
+## What is IRC?
+
+* **IRC**(Internet Relay Chat) is a worldwide chat system requiring an Internet connection and an IRC client, which sends and receives messages via the IRC server.
 [networking_device]: https://en.wikipedia.org/wiki/Networking_device
 [data packets]: https://en.wikipedia.org/wiki/Network_packet
 [computer network]: https://en.wikipedia.org/wiki/Computer_network
