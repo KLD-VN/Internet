@@ -15,7 +15,7 @@
 
 ## What is the IP address?
 
-![ip_address](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/ip_address.png?raw=true)
+![ip_address](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/ip_address.png)
 
 * **IP address** is a unique address help computers find each other. 
 
@@ -23,13 +23,13 @@
 
 * **DSL (Digital Subcriber Line)** is a family of technologies that are used to transmit **digital data** over **telephone lines**
 
-![dsl](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/dsl.jpeg?raw=true)
+![dsl](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/dsl.jpeg)
 
 ## What is Router?
 
 * A **router** is a [networking_device] that forwards [data packets] between [computer network]
 
-![routing](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/routing.svg?raw=true)
+![routing](https://github.com/KLD-VN]/Internet/how_does_the_internet_work/routing.svg)
 
 ## What is ISP?
 
