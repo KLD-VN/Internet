@@ -5,7 +5,7 @@
 * **The internet** is simply a wire.
 * **The internet** useful because two computers connected directly to this wire can communicate.
 
-![internet_model](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/internet_model.jpeg)
+![internet_model](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/internet_model.jpeg?style="image")
 
 ## What is the Server?
 
@@ -15,7 +15,7 @@
 
 ## What is the IP address?
 
-![ip_address](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/ip_address.png)
+![ip_address](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/ip_address.png?style="image")
 
 * **IP address** is a unique address help computers find each other. 
 
@@ -23,13 +23,13 @@
 
 * **DSL (Digital Subcriber Line)** is a family of technologies that are used to transmit **digital data** over **telephone lines**
 
-![dsl](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/dsl.jpeg)
+![dsl](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/dsl.jpeg?style="image")
 
 ## What is Router?
 
 * A **router** is a [networking_device] that forwards [data packets] between [computer network]
 
-![routing](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/routing.svg)
+![routing](https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/routing.svg?style="image")
 
 ## What is ISP?
 
@@ -38,3 +38,8 @@
 [networking_device]: https://en.wikipedia.org/wiki/Networking_device
 [data packets]: https://en.wikipedia.org/wiki/Network_packet
 [computer network]: https://en.wikipedia.org/wiki/Computer_network
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
