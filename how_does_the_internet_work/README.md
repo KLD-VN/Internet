@@ -64,6 +64,9 @@ Information and file sharing, collaboration tools, discussion boards, etc.
 
 * An **Internet Service Provider (ISP)** is an organization that provides many different services for accessing, using, or participating in the **Internet**
 
+<p align="center">
+   <img alt="internet model" src="https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/isp.png" />
+</p>
 
 ## What is IRC?
 
