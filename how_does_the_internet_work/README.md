@@ -163,6 +163,12 @@ Bản dịch:
 
 * **Domain** -> name ip address -> easy to remember + human readable
 
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/dns-ip.png" />
+</p>
+
+
 ## Internet and web
 
 * **Internet** -> technical infrastructure which allows billions of computers to be connected all together
