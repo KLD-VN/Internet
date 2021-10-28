@@ -46,7 +46,7 @@ Information and file sharing, collaboration tools, discussion boards, etc.
 
 ## What is DSL?
 
-* **DSL (Digital Subcriber Line)** is a family of technologies that are used to transmit **digital data** over **telephone lines**
+* **DSL (Digital Subscriber Line)** is a family of technologies that are used to transmit **digital data** over **telephone lines**
 
 <p align="center">
    <img alt="dsl" src="https://github.com/KLD-VN/Internet/blob/main/how_does_the_internet_work/dsl.jpeg" />
@@ -76,3 +76,99 @@ Information and file sharing, collaboration tools, discussion boards, etc.
 [computer network]: https://en.wikipedia.org/wiki/Computer_network
 
 
+## Deeper dive
+
+### A simple network
+
+* two computer communicate with each other through 1 cable
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-1.png" />
+</p>
+
+* Problem when there are many computers that need to comunicate with each other
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-2.png" />
+</p>
+
+* Solve this problem -> using `router` (tiny computer)
+* **Router** makes sure that a message sent from a given computer arrives at the right destination computer.
+
+The number of cables to connect corresponds to the number of computers
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-3.png" />
+</p>
+
+### A network of networks
+
+* By connecting computers, then routers to routers, we are able to scale infinitely.
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-5.png" />
+</p>
+
+* **Modem** -> turns the information from our network into information manageable by the telephone infrastructure and vice versa 
+
+```diff
++ Bản dịch:
+
+Modem này biến thông tin từ mạng của chúng tôi thành thông tin có thể quản lý được bởi cơ sở hạ tầng điện thoại và ngược lại
+
+```
+
+<p align="center">
+   <img alt="simple network" src="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work/internet-schema-6.png" />
+</p>
+
+* Send the messages from our network to the network we want to reach (Internet Service Provider `IPS`)
+
+* **IPS** is company that manages some special `routers` -> all linked together + access other IPSs' routers
+
+```
+The Internet consists of this whole infrastructure of networks
+
+Bản dịch:
+   Internet bao gồm toàn bộ cơ sở hạ tầng của các mạng
+```
+
+## What does Network infrastructure Mean?
+
+* **Network** infrastructure is the hardware and software resources of ans entire network that enable network connectivity
+
+* Networking hardware:
+   * Routers
+   * Switches
+   * LAN cards
+   * Wireless routers
+   * Cables
+
+* Networking software:
+   * Network operations and management
+   * Operating systems
+   * Firewall
+   * Network security applications
+
+* Network service
+   * T-1 Line
+   * DSL
+   * Satellite
+   * Wireless protocols
+   * IP addressing
+
+## Finding computers
+
+* Computer linked to a network -> has a unique address that identifies it -> `IP address`
+
+* **Domain** -> name ip address -> easy to remember + human readable
+
+## Internet and web
+
+* **Internet** -> technical infrastructure which allows billions of computers to be connected all together
+
+* **web** -> files are files located on the server hard driver (1 computer directly connected to the internet)
+
+```
+The Internet is an infrastructure and Web is a service built on the top of the infrastructure.
+```
